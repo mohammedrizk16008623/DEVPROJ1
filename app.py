@@ -172,10 +172,10 @@ TEAM_QUESTIONS = [
      "No. All income tiers are spread alike; the two worst districts received almost none."),
     ("7.8", "Amro Taha Salih", "Do districts adding family-sized units have more crashes at school-travel times?",
      "No. The school-travel peak is citywide (rho = 0.03)."),
-    ("7.9", "Fares Mustafa El-Sonbaty", "Is rental housing distributed differently from homeownership across recurring-crash districts?",
-     "Yes. BK 03 holds 19.36% of ownership units; BX 01 holds 5.91% of rental units."),
+    ("7.9", "Fares Mustafa El-Sonbaty", "Is rental housing distributed differently from homeownership, and do rental-heavy districts have more repeat-location crashes?",
+     "Yes, somewhat (rho = 0.28, p = 0.03). BK 03 holds 19.36% of ownership units; BX 01 holds 5.91% of rental units."),
     ("7.9", "Fares Mustafa El-Sonbaty", "Do districts with a wider income mix have crashes spread more evenly across the day?",
-     "Weakly (rho = 0.21); crashes are spread evenly almost everywhere."),
+     "No clear link (rho = 0.21, p = 0.12, not significant); crashes are spread evenly almost everywhere."),
 ]
 
 team_tab = html.Div(className="panel", children=[

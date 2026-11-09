@@ -2,7 +2,7 @@
 
 **Data Engineering & Visualization: Milestone 1 (Winter 2026, GIU)**
 
-**Live site:** [deployment link]  ·  **Repository:** https://github.com/mohammedrizk16008623/DEVPROJ1  ·  **Notebook:** [`notebook/Final_Submission_Notebook.ipynb`](notebook/Final_Submission_Notebook.ipynb)
+**Live site:** https://devproj-1-nine.vercel.app/  ·  **Repository:** https://github.com/mohammedrizk16008623/DEVPROJ1  ·  **Notebook:** [`notebook/Final_Submission_Notebook.ipynb`](notebook/Final_Submission_Notebook.ipynb)
 
 > **Research question.** Do neighbourhoods experiencing a surge in new affordable-housing construction also experience more severe street-safety problems?
 
